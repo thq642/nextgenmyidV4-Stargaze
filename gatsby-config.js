@@ -29,8 +29,8 @@ module.exports = {
         name:  `Discord`,
         socialUrl: `https://discordapp.com/users/616254619584299012`
       },
-      {name: `Instagram`, 
-      socialUrl: `https://www.instagram.com/mikail.thoriq/`
+      {name: `LinkedIn`, 
+      socialUrl: `https://www.linkedin.com/in/mikail-thoriq-a93625266?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZ4VWJW4mRKKaZZI0xGNOMQ%3D%3D`
       },
     ]
   },
