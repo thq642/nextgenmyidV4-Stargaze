@@ -59,7 +59,7 @@
     "@types/jest": "26.0.24",
     "@types/node": "15.12.2",
     "@types/prop-types": "15.7.5",
-    "@types/react": "17.0.53",
+    "@types/react": "18.0.28",
     "@types/react-dom": "17.0.19",
     "@types/react-helmet": "6.1.6",
     "@types/styled-components": "5.1.26",
